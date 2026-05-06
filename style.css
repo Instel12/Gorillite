@@ -15,7 +15,7 @@ body{
 .banner{
     height: 80vh;
     width: 100%;
-    background-image: url(Images/Banner.png);
+    /* background-image: url(Images/Banner.png); */
     background-size: cover;
     background-position: center;
 }
@@ -33,4 +33,8 @@ a{
 
 ul{
     margin-top: -15px;
+}
+
+.footer{
+    margin-top: 150px;
 }
