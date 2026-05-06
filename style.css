@@ -38,3 +38,16 @@ ul{
 .footer{
     margin-top: 150px;
 }
+
+.screenshots{
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: none;
+    white-space: nowrap;
+}
+
+.screenshots img {
+    height: 250px;
+    flex-shrink: 0;
+    display: inline-block;
+}
